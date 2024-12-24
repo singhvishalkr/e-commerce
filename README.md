@@ -11,3 +11,7 @@ This is a production-grade eCommerce application built using Spring Boot, levera
 - **Lombok for Reduced Boilerplate**: Leveraged Lombok to minimize boilerplate code and enhance productivity, making the codebase cleaner and more maintainable.
 - **Pagination and Sorting**: Implemented efficient data display management using Spring MVC’s pagination and sorting capabilities.
 - **User Profiles and Roles Management**: Developed a comprehensive user management system with roles and permissions, enabling effective user access control.
+
+## API Testing with Postman
+
+To test the APIs, you can use the Postman collection provided in the `postman` directory. Follow the instructions in `postman/README.md` to import and set up the collection.
