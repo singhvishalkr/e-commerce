@@ -14,4 +14,4 @@ This is a production-grade eCommerce application built using Spring Boot, levera
 
 ## API Testing with Postman
 
-To test the APIs, you can use the Postman collection provided in the `postman` directory. Follow the instructions in `postman/README.md` to import and set up the collection.
+To test the APIs, you can use the Postman collection provided in the `postman` directory. Follow the instructions in `src/resources/postman/readme.md` to import and set up the collection.
